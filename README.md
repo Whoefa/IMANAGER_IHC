@@ -1,3 +1,3 @@
 # IMANAGER_IHC
 
-![Capa](caminho/para/capa.jpg)
+![Capa](https://github.com/Whoefa/IMANAGER_IHC/blob/main/capa.PNG)
